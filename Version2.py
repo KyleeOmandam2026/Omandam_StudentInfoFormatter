@@ -11,7 +11,6 @@ formatted_section = section.upper()
 formatted_subject = favorite_subject.title()
 char_count = len(full_name)
 
-
 print("\nFormatted Output:")
 print(f"Name: {full_name}")
 print(f"Name Code: {name_code}")
